@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Parser-core\Parser\Parser.h(91,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Parser-core\Parser\Parser.h(120,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Parser-core\Parser\Parser.h(173,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Parser-core\Parser\Parser.h(278,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Parser-core\Parser\Parser.h(282,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Parser-core\Parser\main.cpp(48,6): warning C4101: index: неиспользованная локальная переменная
+  Создание кода
+  1 of 696 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Parser.vcxproj -> C:\Parser-core\x64\Release\Parser.exe
